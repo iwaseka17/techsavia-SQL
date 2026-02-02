@@ -71,7 +71,7 @@ I wrote a SQL query to show the first 3 names of products on our dataset. The hi
 
  
 # Question 11
-I wrote a SQL query to display only the first 5 rows from the products table.
+I wrote a SQL query to display only the first 5 rows from the products table. The highlighted part in row 15 is the query.
 
  <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/226c1bd9-8dc4-4787-a4ac-18254a5d3303" />
 
