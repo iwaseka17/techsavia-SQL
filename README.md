@@ -28,6 +28,8 @@ I wrote a SQL query to display all columns for products that have no fat.
 # Question 5
 I wrote a SQL query to show all the names of the products we have without repetition. This allows us to know what unique products we have.
 
+<img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/c9b649e0-cc1b-46c1-a5f8-b0a03b10c3b7" />
+
 
 
  
