@@ -64,7 +64,7 @@ I wrote a SQL query to display all products sorted by product_id in ascending or
 
  
 # Question 10
-I wrote a SQL query to show the first 3 names of products on our dataset
+I wrote a SQL query to show the first 3 names of products on our dataset. The highlighted part is the query.
 
  <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/87a11ec9-9ba0-4b30-8d6c-d6351807ffe6" />
 
