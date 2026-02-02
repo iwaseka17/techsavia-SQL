@@ -77,7 +77,7 @@ I wrote a SQL query to display only the first 5 rows from the products table. Th
 
  
 # Question 12
-I wrote a SQL query to display all recyclable products, sorted by product_id in descending order.
+I wrote a SQL query to display all recyclable products, sorted by product_id in descending order. The highlighted part in row 17 is the query.
 
  <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/ff113ef0-ad9a-4a00-b25a-1a156ab0c335" />
 
