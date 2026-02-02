@@ -1,7 +1,8 @@
 # techsavia-SQL
 # Question 1
 I have created an ENUM data type that allows only 'Yes' or 'No' as valid values. I have named this data type “presence”.
- 
+ <img width="976" height="611" alt="image" src="https://github.com/user-attachments/assets/d4b86333-682a-4e65-8627-3c5840b26d57" />
+
  
 # Question 2
 I have created a table called products with the columns product_id, product_name, “Cholesterol”, “Recyclable”, and “Fat”. I have used “Serial” data type for the product_id so that it can auto-generate. I have used the earlier created “presence” data type for the columns Cholesterol, Recyclable, and Fat so that these can only have the values ‘yes’ or ‘no’.
