@@ -6,26 +6,35 @@ I have created an ENUM data type that allows only 'Yes' or 'No' as valid values.
  
 # Question 2
 I have created a table called products with the columns product_id, product_name, “Cholesterol”, “Recyclable”, and “Fat”. I have used “Serial” data type for the product_id so that it can auto-generate. I have used the earlier created “presence” data type for the columns Cholesterol, Recyclable, and Fat so that these can only have the values ‘yes’ or ‘no’.
- 
+ <img width="976" height="611" alt="image" src="https://github.com/user-attachments/assets/cab7e04e-3b1f-41c2-afcb-9b84e51535c7" />
+
  
 # Question 3
 I have inserted 10 records into the products table with a unique product ID for each of the products. The second photo shows all 10 records for the table.
+
+<img width="521" height="478" alt="image" src="https://github.com/user-attachments/assets/815f61ba-06b4-4a39-8ba0-f127dc682034" />
+
+<img width="436" height="478" alt="image" src="https://github.com/user-attachments/assets/4f2e263e-c5ba-4732-a147-4688637a29bb" />
 
 
  
 # Question 4
 I wrote a SQL query to display all columns for products that have no fat.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/669eacda-7820-4f4a-820b-c3a5b8c23850" />
+
 
  
 # Question 5
 I wrote a SQL query to show all the names of the products we have without repetition. This allows us to know what unique products we have.
- 
+
+
 
  
 # Question 6
 I wrote a SQL query to count the products sold
- 
+
+
 
  
 # Question 7
