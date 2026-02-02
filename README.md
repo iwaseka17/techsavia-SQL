@@ -98,3 +98,6 @@ I wrote a SQL query to display the first 2 products that have no fat and are rec
  
 # Question 15
 Using an ENUM data type for fats, cholesterol, and recyclable is better than allowing free text values because this prevents unwanted errors from occurring. For example, someone may make typing mistakes and write “yws” instead of “yes”. This would result in a faulty query and would prevent the model from showing valuable insights. Additionally, this also results in uniformity of data when the administrator changes. Some new employees may come in and assume that the column should include the percentage of fat instead of the presence of it. But using the ENUM data type makes sure that this column only contains the “yes” or “no” values.
+
+# link to my dataset:
+
