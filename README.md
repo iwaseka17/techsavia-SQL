@@ -36,47 +36,65 @@ I wrote a SQL query to show all the names of the products we have without repeti
 # Question 6
 I wrote a SQL query to count the products sold
 
+<img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/ebea9492-587b-41cd-8e0a-fd672fb55639" />
+
 
 
  
 # Question 7
 I wrote a SQL query to display only the product IDs of products that are recyclable.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/3d684591-2ad8-46c7-aba3-1daa03854d87" />
+
 
  
 # Question 8
 I wrote a SQL query to find the names of products that have no fat and have no cholesterol.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/eab4fb0b-aec0-47b7-8776-6645b1e256ce" />
+
 
  
 # Question 9
 I wrote a SQL query to display all products sorted by product_id in ascending order.
+
+<img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/99413763-3078-4552-adb4-74e3d178de32" />
 
  
 
  
 # Question 10
 I wrote a SQL query to show the first 3 names of products on our dataset
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/87a11ec9-9ba0-4b30-8d6c-d6351807ffe6" />
+
 
  
 # Question 11
 I wrote a SQL query to display only the first 5 rows from the products table.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/226c1bd9-8dc4-4787-a4ac-18254a5d3303" />
+
  
 # Question 12
 I wrote a SQL query to display all recyclable products, sorted by product_id in descending order.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/ff113ef0-ad9a-4a00-b25a-1a156ab0c335" />
+
  
 # Question 13
 I wrote a SQL query to display the top 3 newest products by ordering it to display product_id in descending order as a higher product_id means a newer product.
+
+<img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/0512f354-8519-41b5-a5c8-361256f97e6a" />
 
 
  
  
 # Question 14
 I wrote a SQL query to display the first 2 products that have no fat and are recyclable, sorted by product_id in ascending order.
- 
+
+ <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/a3399148-95af-480a-8e73-ffab230501ee" />
+
  
 # Question 15
 Using an ENUM data type for fats, cholesterol, and recyclable is better than allowing free text values because this prevents unwanted errors from occurring. For example, someone may make typing mistakes and write “yws” instead of “yes”. This would result in a faulty query and would prevent the model from showing valuable insights. Additionally, this also results in uniformity of data when the administrator changes. Some new employees may come in and assume that the column should include the percentage of fat instead of the presence of it. But using the ENUM data type makes sure that this column only contains the “yes” or “no” values.
