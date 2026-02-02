@@ -91,7 +91,7 @@ I wrote a SQL query to display the top 3 newest products by ordering it to displ
  
  
 # Question 14
-I wrote a SQL query to display the first 2 products that have no fat and are recyclable, sorted by product_id in ascending order.
+I wrote a SQL query to display the first 2 products that have no fat and are recyclable, sorted by product_id in ascending order. The highlighted part in row 21 an 22 is the query.
 
  <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/a3399148-95af-480a-8e73-ffab230501ee" />
 
