@@ -83,7 +83,7 @@ I wrote a SQL query to display all recyclable products, sorted by product_id in 
 
  
 # Question 13
-I wrote a SQL query to display the top 3 newest products by ordering it to display product_id in descending order as a higher product_id means a newer product.
+I wrote a SQL query to display the top 3 newest products by ordering it to display product_id in descending order as a higher product_id means a newer product. The highlighted part in row 19 is the query.
 
 <img width="972" height="608" alt="image" src="https://github.com/user-attachments/assets/0512f354-8519-41b5-a5c8-361256f97e6a" />
 
